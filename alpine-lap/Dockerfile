@@ -1,4 +1,4 @@
-FROM gregnuj/cyclops-nodejs:latest
+FROM gregnuj/cyclops-nodejs:alpine3.7
 LABEL MAINTAINER="Greg Junge <gregnuj@gmail.com>"
 USER root
 
